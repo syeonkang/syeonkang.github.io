@@ -83,8 +83,7 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/skangstat/"
     - label: "Google Scholar"
-      icon: "google-scholar"
-      icon_pack: "ai"
+      icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=TEMaE9IAAAAJ&hl=en"
 
 footer:
