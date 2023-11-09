@@ -62,7 +62,7 @@ plugins:
 author:
   name   : "Suyeon Kang"
   avatar : "/assets/images/Profile.jpg"
-  bio    : "Postdoctoral Researcher, Statistician."
+  bio    : "Postdoctoral Researcher<br>Statistician"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
